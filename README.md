@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Will Carr (aka <code>trv3son</code>)</h1>
 
-<!--
-**trv3son/trv3son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Data Scientist | Quantitative Thinker | Creative Technologist</em><br>
+  <strong>B.S. Data Science — San José State University</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- I bridge **data science** and **financial systems**, building analytical tools that quantify performance and model market behavior.  
+- Interested in **quantitative trading**, **data pipelines**, and **machine learning for finance**.  
+- Always optimizing — whether in code, trading systems, or life philosophy.
+
+---
+
+### 💼 Current Projects
+| Repo | Focus |
+|------|-------|
+| [📊 QuantHub](https://github.com/trv3son/quantHub) | Integrating data science and trading analytics into modular research tools. |
+| [🎧 Index 404](#) | Experimental sound & design project merging art, data, and story. |
+
+---
+
+### ⚙️ Tech Stack
+Python • pandas • scikit-learn • SQL • Git • Bash • matplotlib • yfinance
+
+---
+
+### 🌍 Connect
+📫 Email: **[your.sjsu.email@something.edu](mailto:your.sjsu.email@something.edu)**  
+🎯 Focused on: **Data-Driven Systems | Quant Analytics | Market Intelligence**
+
+---
+
+<p align="center">
+  <em>“The goal is data clarity — everything else is noise.”</em>
+</p>
