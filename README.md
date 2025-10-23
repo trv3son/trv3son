@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Will Carr (aka <code>trv3son</code>)</h1>
+<h1 align="center">👋 Hey, I'm Trae
 
 <p align="center">
   <em>Data Scientist | Quantitative Thinker | Creative Technologist</em><br>
