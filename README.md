@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - I bridge **data science** and **financial systems**, building analytical tools that quantify performance and model market behavior.  
-- Interested in **quantitative trading**, **data pipelines**, and **machine learning for finance**.  
+- Focused on **quantitative trading**, **data pipelines**, and **machine learning for finance**.  
 - Always optimizing — whether in code, trading systems, or life philosophy.
 
 ---
@@ -27,9 +27,25 @@ Python • pandas • scikit-learn • SQL • Git • Bash • matplotlib • y
 
 ---
 
-### 🌍 Connect
-📫 Email: **[your.sjsu.email@something.edu](mailto:your.sjsu.email@something.edu)**  
-🎯 Focused on: **Data-Driven Systems | Quant Analytics | Market Intelligence**
+### ⚙️ GitHub Analytics
+<p align="center">
+  <a href="https://github.com/trv3son">
+    <img src="https://github-readme-stats.vercel.app/api?username=trv3son&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  </a>
+  <a href="https://github.com/trv3son">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trv3son&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trv3son&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Quick Links
+- [📊 QuantHub](https://github.com/trv3son/quantHub)
+- [📫 Contact](mailto:your.sjsu.email@something.edu)
 
 ---
 
